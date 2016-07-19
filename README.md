@@ -1,5 +1,5 @@
 # Highlight
-Highlight is a simple javascript for making adding mouse tracked element highlights.
+Highlight is a simple javascript for adding mouse tracked element highlights.
 
 # Basic setup
 Include the script right before your `</body>`.
